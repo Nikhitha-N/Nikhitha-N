@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nikhitha 👋
 
-<!--
-**Nikhitha-N/Nikhitha-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Student | 💻 Python + ML | 🌍 Data-driven projects  
+I build end-to-end projects in machine learning, computer vision, and analytics.
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+- **VisionSaver** — Ocular Disease Detection (Python, ML)
+- **Climate Disaster Prediction System** — Prediction + analysis (Jupyter, ML)
+- **Simple Banking Management System** — Core programming + logic (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** Python, Java  
+- **ML/Data:** NumPy, Pandas, scikit-learn  
+- **Tools:** Git/GitHub, Jupyter
+
+## 📫 Connect
+- Email: nikhitha0613@gmail.com
+
