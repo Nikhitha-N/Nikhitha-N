@@ -49,4 +49,5 @@
 ## 📫 Connect
 - ✉️ Contact me at Email: **nikhithanagalla@ufl.edu**
 - 🌐 Check out my Portfolio: **https://nikhitha-n.github.io/Nikhitha_portfolio/**
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" /> LinkedIn: **https://www.linkedin.com/in/nikhitha13/**
 
