@@ -1,6 +1,6 @@
 # Hi, I'm Nikhitha 👋
 
-🎓 MS student focused on data-driven problem solving across analytics and machine learning, with strengths in turning raw, messy datasets into clean, reliable pipelines and clear insights. 💻 I build end-to-end projects using Python and SQL, covering data cleaning, EDA, feature engineering, visualization, and model development (including ML/CV), and I prioritize results that are measurable, explainable, and easy for stakeholders to use. 📊 I’m comfortable working across the full workflow from data ingestion to evaluation and documentation. 🤝 I’m always open to collaborating with others and exploring new opportunities in Data Analyst, Data Scientist, and ML/AI Engineer roles.
+🎓 MS student focused on data-driven problem solving across analytics and machine learning, with strengths in turning raw, messy datasets into clean, reliable pipelines and clear insights. 🤝 I’m always open to collaborating with others and exploring new opportunities in Data Analyst, Data Scientist, and ML/AI Engineer roles.
 
 ## ✨ Highlights
 - 🔍 Strong in **EDA, data cleaning, and storytelling** - turning raw data into clear insights & recommendations  
