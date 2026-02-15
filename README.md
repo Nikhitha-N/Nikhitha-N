@@ -1,7 +1,5 @@
-# Hi, I'm Nikhitha 👋
 ![Banner](Banner.png)
-
-
+# Hi, I'm Nikhitha 👋
 🎓 MS student focused on data-driven problem solving across analytics and machine learning, with strengths in turning raw, messy datasets into clean, reliable pipelines and clear insights. 🤝 I’m always open to collaborating with others and exploring new opportunities in Data Analyst, Data Scientist, and ML/AI Engineer roles.
 
 ## ✨ Highlights
