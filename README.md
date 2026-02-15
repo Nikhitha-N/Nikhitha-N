@@ -37,6 +37,26 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST%20API](https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logoColor=white)
 
+## 🌟 Featured
+
+<details>
+  <summary><b>👁️ VisionSaver</b> — (Click to flip)</summary>
+
+  **What it is:** Ocular disease detection using ML/CV.  
+  **Highlights:** Preprocessing → training → evaluation pipeline, model performance tracking, clean documentation.  
+  **Tech:** Python, scikit-learn / PyTorch, Pandas, NumPy.  
+  **Repo:** https://github.com/Nikhitha-N/VisionSaver
+</details>
+
+<details>
+  <summary><b>🌍 Climate-Disaster-Prediction-System</b> — (Click to flip)</summary>
+
+  **What it is:** ML-based climate/disaster prediction & analysis project.  
+  **Highlights:** EDA, feature engineering, model training/evaluation, visual insights for decision-making.  
+  **Tech:** Python, SQL, scikit-learn, visualization.  
+  **Repo:** https://github.com/Nikhitha-N/Climate-Disaster-Prediction-System
+</details>
+
 
 ## 📫 Connect
 - ✉️ Contact me at Email: **nikhithanagalla@ufl.edu**
