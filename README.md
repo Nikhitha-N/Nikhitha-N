@@ -9,16 +9,6 @@
 - 📈 Create stakeholder-friendly outputs using **visualizations, notebooks, and well-structured reports**  
 - 🤝 Team-friendly: enjoy **collaborating**, documenting work clearly, and improving projects iteratively  
 
-## 📫 Contact
-- ✉️ Contact me at Email: **nikhithanagalla@ufl.edu**
-- 🌐 Check out my Portfolio: **https://nikhitha-n.github.io/Nikhitha_portfolio/**
-
-
-## 🔥 Featured Projects
-- **VisionSaver** — Ocular Disease Detection (Python, ML)
-- **Climate Disaster Prediction System** — Prediction + analysis (Jupyter, ML)
-- **Simple Banking Management System** — Core programming + logic (Python)
-
 ## 🧰 Things I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,5 +39,6 @@
 
 
 ## 📫 Connect
-- Email: nikhitha0613@gmail.com
+- ✉️ Contact me at Email: **nikhithanagalla@ufl.edu**
+- 🌐 Check out my Portfolio: **https://nikhitha-n.github.io/Nikhitha_portfolio/**
 
